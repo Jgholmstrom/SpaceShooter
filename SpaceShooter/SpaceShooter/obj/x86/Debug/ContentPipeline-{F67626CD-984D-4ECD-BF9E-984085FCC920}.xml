@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2012-10-09T23:43:58.9377834+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2012-10-08T13:46:01.1107777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>playerLeft.png</Source>
+      <Name>playerLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\playerLeft.xnb</Output>
+      <Time>2012-10-08T13:44:54.0859441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>playerRight.png</Source>
+      <Name>playerRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\playerRight.xnb</Output>
+      <Time>2012-10-08T13:45:05.8416165+02:00</Time>
+    </Item>
+    <Item>
+      <Source>laserGreen.png</Source>
+      <Name>laserGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\laserGreen.xnb</Output>
+      <Time>2012-10-08T13:45:31.3450752+02:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyShip.png</Source>
+      <Name>enemyShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\enemyShip.xnb</Output>
+      <Time>2012-10-08T13:44:26.9643929+02:00</Time>
+    </Item>
+    <Item>
+      <Source>laserGreenShot.png</Source>
+      <Name>laserGreenShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\laserGreenShot.xnb</Output>
+      <Time>2012-10-08T13:45:23.5296282+02:00</Time>
+    </Item>
+    <Item>
+      <Source>starBackground.png</Source>
+      <Name>starBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\starBackground.xnb</Output>
+      <Time>2012-10-30T19:28:33.2869446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>laserRedShot.png</Source>
+      <Name>laserRedShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\laserRedShot.xnb</Output>
+      <Time>2012-10-08T13:45:51.7222407+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F67626CD-984D-4ECD-BF9E-984085FCC920}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Dropbox\C# Projects\SpaceShooter\SpaceShooter\SpaceShooter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-04T15:40:30.0472746+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
